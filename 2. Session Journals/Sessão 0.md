@@ -39,15 +39,21 @@ Esta sessão é dedicada a alinhar expectativas, estabelecer regras da mesa, int
 	    * Ou podem usar algo na linha de: Os personagens estão em [[Rario]] quando são contratados para proteger uma carroça pelo amigo e patrono [[Gundren Rockseeker]] enquanto ele mesmo vai na frente com o Guerreiro [[Sildar Hallwinter]]. Os personagens vão receber **10PO** cada pelo dono do posto de troca [[Provisões Barthens]]  
 *   **Visão Geral do Mundo:**
     *   Elementos chave do cenário: Reinos, cidades importantes, facções, ameaças principais, cultura dominante.
-	    * Sempre existiram 4 reinos: [[O Reino do Norte]], [[O Império do Lago]], [[A Comitiva dos Mercadores]] e o [[Reino dos Guerreiros]]. Mas alguns anos atrás no Reino do Norte  
+	    * Sempre existiram 4 reinos: o [[Reino do Norte]], o [[Império Central]], a [[Comitiva dos Mercadores]] e o [[Reino dos Guerreiros]]. Mas alguns anos atrás no Reino do Norte o lugar onde a maior escola de magia existia lá na escola surgiu o [[Lich King]] e ele criou o seu próprio reino a partir de sua [[Necropole]] o seu império de mortos vivos se espalha além da ilha onde ela fica agora em Guerra com o que sobrou do Reino do Norte uma guerra civil que desola o Reino e até começa a ameaçar os locais vizinhos. Mas vocês começam suas aventuras no [[Império Central]] entre as cidade de [[Rario]] e [[Phandalin]]
+	    * Podemos criar novas facções e/ou lugares 
     *   Geografia e história relevante (sem spoilers!).
+	    * Mapas.....
     *   Magia/Tecnologia no mundo: Como funciona, quão comum é, suas limitações.
+	    * A Magia é predominante apesar de após o levantar do [[Lich King]] algumas pessoas podem olhar diferente principalmente para magos.
+	    * Temos artificies que evoluem a tecnologia a todo o tempo
 
 ## *III. As Regras da Mesa (Contrato Social)*
 
 *   **Expectativas:**
     *   **Mestre/Narrador:** O que o Mestre espera dos jogadores (engajamento, atenção, respeito às regras, etc.).
+	    * Engajamento, Criatividade 
     *   **Jogadores:** O que os jogadores esperam do Mestre e uns dos outros (narrativa interessante, desafios justos, espaço para todos brilharem, etc.).
+    * 
 *   **Ferramentas de Segurança e Conforto:**
     *   **Cartão X (X-Card):** Um método para sinalizar conteúdo desconfortável.
     *   **Linhas e Véus (Lines & Veils):** Definir tópicos que devem ser evitados (linhas) ou apenas

@@ -87,7 +87,6 @@
       {
         "id": "7dbfa65613c41fa0",
         "type": "tabs",
-        "dimension": 26.724137931034484,
         "children": [
           {
             "id": "7d938267a0d2a473",
@@ -187,21 +186,20 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
-        "id": "350b33818aa51ad1",
+        "id": "77119fe536446f36",
         "type": "tabs",
-        "dimension": 73.27586206896552,
         "children": [
           {
-            "id": "16650228f2d8b199",
+            "id": "0a7e249bfc8bf0cf",
             "type": "leaf",
             "state": {
-              "type": "adversary-view",
+              "type": "git-view",
               "state": {},
-              "icon": "venetian-mask",
-              "title": "Adversary Browser"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -229,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6af50a12ce6d6bb0",
+  "active": "8ff50dbafb49da76",
   "lastOpenFiles": [
     "2. Session Journals/Sessão 1.md",
     "2. Session Journals/Sessão 0.md",
