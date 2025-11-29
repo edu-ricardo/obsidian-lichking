@@ -27,16 +27,19 @@ Esta sessão é dedicada a alinhar expectativas, estabelecer regras da mesa, int
 	    * Pra eventuais sessões Online. Owlbear Rodeo.
 	    * 
 *   **Gênero e Tom da Campanha:**
-    *   Fantasia épica, horror de investigação, ficção científica, drama político, etc.
-	    * Uma história de fantasia épica com toques de dark fantasia.
-    *   Qual o "sentimento" que o Mestre/Narrador quer evocar (heroísmo, suspense, humor, seriedade).
+    *   ==Fantasia épica, horror de investigação, ficção científica, drama político, etc.==
+	    * Uma história de fantasia épica com toques de dark fantasy.
+    *   ==Qual o "sentimento" que o Mestre/Narrador quer evocar (heroísmo, suspense, humor, seriedade).==
 	    * Heroísmo, Humor (Dentro da Medida) e aventura
     *   Nível de letalidade/dificuldade esperado.
 	    * Um bom desafio 
 *   **Premissa da Campanha:**
     *   Um breve resumo do ponto de partida: Onde os personagens se encontram? Qual a situação inicial? Qual o primeiro grande problema/mistério?
+	    * Os PCs estão vindo de [[Rario]] para [[Phandalin]] podem escolher o motivo por que
+	    * Ou podem usar algo na linha de: Os personagens estão em [[Rario]] quando são contratados para proteger uma carroça pelo amigo e patrono [[Gundren Rockseeker]] enquanto ele mesmo vai na frente com o Guerreiro [[Sildar Hallwinter]]. Os personagens vão receber **10PO** cada pelo dono do posto de troca [[Provisões Barthens]]  
 *   **Visão Geral do Mundo:**
     *   Elementos chave do cenário: Reinos, cidades importantes, facções, ameaças principais, cultura dominante.
+	    * Sempre existiram 4 reinos: [[O Reino do Norte]], [[O Império do Lago]], [[A Comitiva dos Mercadores]] e o [[Reino dos Guerreiros]]. Mas alguns anos atrás no Reino do Norte  
     *   Geografia e história relevante (sem spoilers!).
     *   Magia/Tecnologia no mundo: Como funciona, quão comum é, suas limitações.
 

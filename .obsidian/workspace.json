@@ -175,8 +175,19 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "5afba51be9d9f60f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "350b33818aa51ad1",
@@ -214,7 +225,8 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6af50a12ce6d6bb0",
