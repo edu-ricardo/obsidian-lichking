@@ -70,3 +70,5 @@ Você disse que o Lich de Evocação explode quando morre. Isso é **genial** pa
 2. **Nezznar (Evocador):** Captura Gundren para saber como ligar a Forja. Ele não quer minerar, ele quer detonar a região para virar Lich.
     
 3. **Os Jogadores:** São contratados para escoltar suprimentos, descobrem o sequestro e, aos poucos, percebem que não estão lidando com bandidos comuns, mas com um ritual de ascensão apocalíptico.
+4. Teste Tablet
+
